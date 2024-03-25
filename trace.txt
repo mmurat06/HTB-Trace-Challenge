@@ -1,0 +1,19 @@
+1. row common anode -----> GPIO12
+2. row common anode -----> GPIO25
+3. row common anode -----> GPIO24
+4. row common anode -----> GPIO22
+5. row common anode -----> GPIO27
+6. row common anode -----> GPIO17
+7. row common anode -----> GPIO18
+8. row common anode -----> GPIO23
+
+1. col common katot-----> GPIO16
+2. col common katot-----> GPIO5
+3. col common katot-----> GPIO6
+4. col common katot-----> GPIO13
+5. col common katot-----> GPIO19
+6. col common katot-----> GPIO26
+7. col common katot-----> GPIO20
+8. col common katot-----> GPIO21
+
+
